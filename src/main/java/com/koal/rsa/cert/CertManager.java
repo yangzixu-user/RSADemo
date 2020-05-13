@@ -52,8 +52,7 @@ public class CertManager {
         System.out.println("密钥用法:");
         System.out.println("指纹算法:");
         System.out.println("指纹:");
-        //System.out.println(encode);
-
+        System.out.println(encode);
     }
 
 
