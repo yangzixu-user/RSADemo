@@ -1,4 +1,4 @@
-package com.koal.rsa.cert;
+package com.koal.cert;
 
 import com.koal.rsa.Base64;
 
@@ -6,11 +6,8 @@ import com.koal.rsa.Base64;
 import java.io.File;
 import java.io.FileInputStream;
 import java.security.PublicKey;
-import java.security.cert.Certificate;
 import java.security.cert.CertificateFactory;
 import java.security.cert.X509Certificate;
-import java.util.List;
-import java.util.Set;
 
 /**
  * @author yangxu@koal.com
